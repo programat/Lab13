@@ -12,7 +12,7 @@ public class UnitTest1
         TestZoo.Add_elem(new Mammals(1, 3, "B"));
         TestZoo.Add_elem(new Mammals(2, 2, "A"));
         TestZoo.Sort(3); //sorting by name
-        Assert.Equals(2, TestZoo.GetAnimals[0].number);
+        Assert.AreEqual(2, TestZoo.GetAnimals[0].number);
     }
 
     [ExpectedException(typeof(ArgumentException))]
