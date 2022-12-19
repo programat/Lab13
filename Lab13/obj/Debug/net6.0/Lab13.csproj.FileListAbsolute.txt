@@ -1,0 +1,15 @@
+/Users/egorken/RiderProjects/Lab13/Lab13/bin/Debug/net6.0/Lab13
+/Users/egorken/RiderProjects/Lab13/Lab13/bin/Debug/net6.0/Lab13.deps.json
+/Users/egorken/RiderProjects/Lab13/Lab13/bin/Debug/net6.0/Lab13.runtimeconfig.json
+/Users/egorken/RiderProjects/Lab13/Lab13/bin/Debug/net6.0/Lab13.dll
+/Users/egorken/RiderProjects/Lab13/Lab13/bin/Debug/net6.0/Lab13.pdb
+/Users/egorken/RiderProjects/Lab13/Lab13/obj/Debug/net6.0/Lab13.csproj.AssemblyReference.cache
+/Users/egorken/RiderProjects/Lab13/Lab13/obj/Debug/net6.0/Lab13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egorken/RiderProjects/Lab13/Lab13/obj/Debug/net6.0/Lab13.AssemblyInfoInputs.cache
+/Users/egorken/RiderProjects/Lab13/Lab13/obj/Debug/net6.0/Lab13.AssemblyInfo.cs
+/Users/egorken/RiderProjects/Lab13/Lab13/obj/Debug/net6.0/Lab13.csproj.CoreCompileInputs.cache
+/Users/egorken/RiderProjects/Lab13/Lab13/obj/Debug/net6.0/Lab13.dll
+/Users/egorken/RiderProjects/Lab13/Lab13/obj/Debug/net6.0/refint/Lab13.dll
+/Users/egorken/RiderProjects/Lab13/Lab13/obj/Debug/net6.0/Lab13.pdb
+/Users/egorken/RiderProjects/Lab13/Lab13/obj/Debug/net6.0/Lab13.genruntimeconfig.cache
+/Users/egorken/RiderProjects/Lab13/Lab13/obj/Debug/net6.0/ref/Lab13.dll
